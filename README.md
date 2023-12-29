@@ -42,3 +42,10 @@
 <h1 align="center">
   <img alt="Diagrama" title="#Diagrama" src="img/modelo_conceitual.png" />
 </h1>
+<br>
+
+#### Diagrama do modelo relacional:
+
+<h1 align="center">
+  <img alt="relacional" title="#relacional" src="img/modelo_relacional.png" />
+</h1>
