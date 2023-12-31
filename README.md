@@ -44,7 +44,7 @@
 </h1>
 <br>
 
-#### Diagrama do modelo relacional:
+#### Diagrama do modelo logico relacional:
 
 <h1 align="center">
   <img alt="relacional" title="#relacional" src="img/modelo_relacional.png" />
